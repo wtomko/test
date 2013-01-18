@@ -1,0 +1,5 @@
+E:\HudsonDotNet\HudsonDotNet\bin\Debug\HudsonDotNet.exe
+E:\HudsonDotNet\HudsonDotNet\bin\Debug\HudsonDotNet.pdb
+E:\HudsonDotNet\HudsonDotNet\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HudsonDotNet\HudsonDotNet\obj\x86\Debug\HudsonDotNet.exe
+E:\HudsonDotNet\HudsonDotNet\obj\x86\Debug\HudsonDotNet.pdb
